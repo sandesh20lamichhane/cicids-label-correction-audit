@@ -1,0 +1,10 @@
+task,split,model,mean_diff,p_tost,note,equivalent_at_0.02
+binary,day_ordered,logreg,-0.0613,1.0,var0,False
+binary,day_ordered,random_forest,0.0287,0.9988,,False
+binary,day_ordered,xgboost,0.0043,0.0,var0,True
+binary,random_70_30,logreg,-0.0261,1.0,,False
+binary,random_70_30,random_forest,-0.0,0.0,,True
+binary,random_70_30,xgboost,-0.0,0.0,,True
+multiclass,random_70_30,logreg,-0.0514,0.9187,,False
+multiclass,random_70_30,random_forest,-0.1279,1.0,,False
+multiclass,random_70_30,xgboost,-0.1165,0.8021,,False

@@ -1,0 +1,9 @@
+{
+  "original_rows": 16232943,
+  "original_duplicates": 410707,
+  "original_dup_pct": 2.53,
+  "improved_rows": 63195145,
+  "improved_duplicates": 0,
+  "improved_dup_pct": 0.0,
+  "method": "pandas row-hash, corpus-wide within version"
+}

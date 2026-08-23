@@ -1,0 +1,12 @@
+day,label,n
+friday,Botnet - Attempted,4067
+wednesday,DoS Slowhttptest - Attempted,3368
+wednesday,DoS Slowloris - Attempted,1847
+thursday,Web Attack - Brute Force - Attempted,1292
+thursday,Web Attack - XSS - Attempted,655
+wednesday,DoS Hulk - Attempted,581
+wednesday,DoS GoldenEye - Attempted,80
+thursday,Infiltration - Attempted,45
+tuesday,SSH-Patator - Attempted,27
+tuesday,FTP-Patator - Attempted,12
+thursday,Web Attack - SQL Injection - Attempted,5

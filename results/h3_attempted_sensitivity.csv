@@ -1,0 +1,10 @@
+task,split,model,as_attack,as_benign,dropped,spread,exceeds_0.01
+binary,day_ordered,logreg,0.6448,0.6479,0.6472,0.0031,False
+binary,day_ordered,random_forest,0.6355,0.6378,0.6397,0.0042,False
+binary,day_ordered,xgboost,0.6326,0.5114,0.5976,0.1212,True
+binary,random_70_30,logreg,0.9871,0.9895,0.9921,0.005,False
+binary,random_70_30,random_forest,0.9999,0.9999,0.9999,0.0,False
+binary,random_70_30,xgboost,1.0,1.0,1.0,0.0,False
+multiclass,random_70_30,logreg,0.7919,0.924,0.9133,0.1321,True
+multiclass,random_70_30,random_forest,0.9953,0.9849,0.988,0.0104,True
+multiclass,random_70_30,xgboost,0.9801,0.9786,0.9484,0.0318,True

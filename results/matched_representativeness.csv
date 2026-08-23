@@ -1,0 +1,10 @@
+class,full_original,matched,match_coverage_pct,share_full_pct,share_matched_pct
+BENIGN,2273097,1318432,58.0,80.3,82.146
+DoS,252661,105331,41.69,8.926,6.563
+PortScan,158930,158476,99.71,5.614,9.874
+DDoS,128027,21247,16.6,4.523,1.324
+BruteForce,13835,1218,8.8,0.489,0.076
+WebAttack,2180,242,11.1,0.077,0.015
+Bot,1966,7,0.36,0.069,0.0
+Infiltration,36,32,88.89,0.001,0.002
+Heartbleed,11,10,90.91,0.0,0.001

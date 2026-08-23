@@ -1,0 +1,3 @@
+version,rows,unique,exact_duplicates,duplicate_rate_pct
+original,2830743,2812414,18329,0.647
+improved,2099976,2099973,3,0.0

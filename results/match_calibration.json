@@ -1,0 +1,56 @@
+{
+  "parse_original": {
+    "mode": "dayfirst=True",
+    "valid_july": 1.0,
+    "nat_rate": 0.0
+  },
+  "parse_improved": {
+    "mode": "dayfirst=True",
+    "valid_july": 1.0,
+    "nat_rate": 0.0
+  },
+  "clock_fix_original": 1471716,
+  "clock_fix_improved": 0,
+  "shift_search": {
+    "-12": 0,
+    "-11": 0,
+    "-10": 0,
+    "-9": 0,
+    "-8": 0,
+    "-7": 0,
+    "-6": 0,
+    "-5": 10,
+    "-4": 749,
+    "-3": 1567,
+    "-2": 2118,
+    "-1": 2614,
+    "0": 3077,
+    "1": 3804,
+    "2": 5036,
+    "3": 489468,
+    "4": 5036,
+    "5": 3804,
+    "6": 3077,
+    "7": 2614,
+    "8": 2118,
+    "9": 1567,
+    "10": 749,
+    "11": 10,
+    "12": 0
+  },
+  "shift_applied_hours": 3,
+  "unique_original": {
+    "rows": 2830743,
+    "valid_minute": 2830743,
+    "unique_key": 1767843
+  },
+  "unique_improved": {
+    "rows": 2099976,
+    "valid_minute": 2099976,
+    "unique_key": 2073720
+  },
+  "matched_flows": 1604995,
+  "match_rate_vs_unique_original": 0.9079,
+  "match_rate_vs_all_original": 0.567,
+  "gate_g2_pass": true
+}

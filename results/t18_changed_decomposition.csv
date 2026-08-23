@@ -1,0 +1,4 @@
+label_original,label_improved,n
+DDoS attacks-LOIC-HTTP,DDoS-LOIC-HTTP,9316
+DDoS attacks-LOIC-HTTP,DDoS-LOIC-UDP,797
+Benign,DDoS-LOIC-HTTP,3

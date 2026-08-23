@@ -1,0 +1,8 @@
+{
+  "matched": 4575969,
+  "changed": 10116,
+  "change_pct": 0.221,
+  "benign_to_attack": 3,
+  "attack_to_benign": 0,
+  "match_rate_pct": 91.79
+}

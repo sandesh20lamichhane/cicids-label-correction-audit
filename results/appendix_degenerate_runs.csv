@@ -1,0 +1,13 @@
+arm,version,model,mean,std,count
+A,improved,logreg,0.2777,0.0406,15
+A,improved,random_forest,0.4556,0.0763,15
+A,improved,xgboost,0.3333,0.0,15
+A,original,logreg,0.3299,0.0,5
+A,original,random_forest,0.3666,0.0745,5
+A,original,xgboost,0.3332,0.0,5
+B,label_improved,logreg,0.3331,0.0,5
+B,label_improved,random_forest,0.3333,0.0,5
+B,label_improved,xgboost,0.3333,0.0,5
+B,label_original,logreg,0.3329,0.0,5
+B,label_original,random_forest,0.4,0.0913,5
+B,label_original,xgboost,0.3333,0.0,5

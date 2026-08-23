@@ -1,0 +1,3 @@
+variant,unique_original,unique_improved,matched,pct_of_unique_original,family_disagree_pct,benign_to_attack
+canonical,1767843,2073720,1604995,90.79,4.0505,65001
+directed,2218218,2074039,1797981,81.06,3.1762,57095

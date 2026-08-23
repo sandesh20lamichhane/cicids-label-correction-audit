@@ -1,0 +1,10 @@
+family,n_test,logreg_original_recall,logreg_improved_recall,random_forest_original_recall,random_forest_improved_recall,xgboost_original_recall,xgboost_improved_recall
+BENIGN,376030,0.9981,0.9968,1.0,1.0,0.9999,0.9999
+PortScan,47513,0.9959,0.9988,0.9998,1.0,0.9998,0.9999
+DoS,31872,0.9836,0.9682,0.9952,0.9997,0.9951,0.9996
+Infiltration,17047,0.0002,0.5545,0.0004,0.9989,0.0004,0.9995
+DDoS,8546,0.7371,0.9982,0.7378,1.0,0.7377,0.9995
+BruteForce,364,0.9835,0.9835,1.0,1.0,0.9973,0.989
+WebAttack,63,0.2222,0.0952,0.9206,0.9365,0.9206,0.9683
+Bot,59,0.0,0.0169,0.0,1.0,0.0,1.0
+Heartbleed,3,0.6667,1.0,1.0,1.0,1.0,0.6667

@@ -1,0 +1,10 @@
+class,n_matched,n_relabelled,relabel_rate_pct
+BENIGN,1318432,65001,4.93
+PortScan,158476,0,0.0
+DoS,105331,5284,5.017
+DDoS,21247,6,0.028
+BruteForce,1218,11,0.903
+WebAttack,242,242,100.0
+Infiltration,32,1,3.125
+Heartbleed,10,0,0.0
+Bot,7,7,100.0

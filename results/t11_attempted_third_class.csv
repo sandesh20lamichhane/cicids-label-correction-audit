@@ -1,0 +1,16 @@
+seed,model,macro_f1_17class,macro_f1_collapsed_9class
+11,logreg,0.7012,0.8165
+11,random_forest,0.9865,0.9951
+11,xgboost,0.9802,0.997
+23,logreg,0.7279,0.8464
+23,random_forest,0.9901,0.9953
+23,xgboost,0.9709,0.9698
+37,logreg,0.7084,0.7996
+37,random_forest,0.9777,0.9955
+37,xgboost,0.9881,0.9979
+51,logreg,0.71,0.8124
+51,random_forest,0.9872,0.9955
+51,xgboost,0.9666,0.9602
+73,logreg,0.7295,0.825
+73,random_forest,0.9821,0.9955
+73,xgboost,0.5968,0.8162

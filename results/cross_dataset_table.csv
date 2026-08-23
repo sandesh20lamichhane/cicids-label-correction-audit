@@ -1,0 +1,3 @@
+dataset,matched_flows,labels_changed_pct,benign_to_attack,attack_to_benign,armA_random_RF_delta,armB_random_RF_delta,armA_random_MLP_delta,unseen_recall_orig_labels,unseen_recall_impr_labels
+CIC-IDS-2017,"1,604,995",4.396,"65,001",9,-0.0005,-0.0,-0.0244,0.0743,0.1096
+CIC-IDS-2018,"4,575,969",0.221,3,0,-0.0213,-0.0,-0.0187,,

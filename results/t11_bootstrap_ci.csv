@@ -1,0 +1,7 @@
+model,metric,delta_mean,ci95_low,ci95_high
+logreg,macro_f1_family,0.1036,0.0651,0.193
+logreg,binary_attack_recall,0.1081,0.1062,0.11
+random_forest,macro_f1_family,0.2421,0.2372,0.2712
+random_forest,binary_attack_recall,0.1846,0.1824,0.187
+xgboost,macro_f1_family,0.2178,0.1303,0.2752
+xgboost,binary_attack_recall,0.1847,0.1822,0.1871

@@ -1,0 +1,10 @@
+task,split,model,labels_original_mean,labels_original_sd,labels_improved_mean,labels_improved_sd,armB_delta,wilcoxon_p,cliffs_delta,n_seeds,note,p_holm,armA_delta,share_of_armA_gap
+binary,day_ordered,logreg,0.561,0.0,0.6223,0.0,-0.0613,,-1.0,5,var0,,0.0953,-0.643
+binary,day_ordered,random_forest,0.434,0.0,0.4053,0.0029,0.0287,0.0625,1.0,5,,0.4375,0.0263,1.095
+binary,day_ordered,xgboost,0.4572,0.0,0.4529,0.0,0.0043,,1.0,5,var0,,-0.1933,-0.022
+binary,random_70_30,logreg,0.9649,0.0005,0.991,0.0003,-0.0261,0.0625,-1.0,5,,0.4375,-0.0879,0.297
+binary,random_70_30,random_forest,0.9999,0.0,0.9999,0.0,-0.0,0.625,-0.2,5,,0.9375,-0.0005,0.012
+binary,random_70_30,xgboost,0.9999,0.0,0.9999,0.0,-0.0,0.3125,-0.28,5,,0.9375,-0.0003,0.024
+multiclass,random_70_30,logreg,0.6906,0.0239,0.742,0.0395,-0.0514,0.125,-0.68,5,,0.5,-0.1248,0.412
+multiclass,random_70_30,random_forest,0.8679,0.0094,0.9958,0.0019,-0.1279,0.0625,-1.0,5,,0.4375,-0.0312,4.099
+multiclass,random_70_30,xgboost,0.758,0.0962,0.8745,0.1853,-0.1165,0.3125,-0.6,5,,0.9375,-0.1278,0.912

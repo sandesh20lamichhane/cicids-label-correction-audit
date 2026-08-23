@@ -1,0 +1,4 @@
+model,pred_disagreement_pct,b2a_flows_in_test,orig_model_flags_pct,corr_model_flags_pct
+logreg,2.792,19493,38.53,99.09
+random_forest,4.047,19493,0.06,99.95
+xgboost,4.063,19493,0.0,99.97

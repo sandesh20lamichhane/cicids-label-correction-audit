@@ -1,0 +1,13 @@
+model,trained_on,scored_against,macro_f1_family,binary_attack_recall,binary_attack_precision
+logreg,original,improved,0.6525,0.8805,0.9922
+logreg,original,original,0.7229,0.9927,0.912
+logreg,improved,improved,0.7526,0.9885,0.9886
+logreg,improved,original,0.6475,0.9879,0.8055
+random_forest,original,improved,0.7525,0.8151,0.9998
+random_forest,original,original,0.8703,0.9998,0.9998
+random_forest,improved,improved,0.9935,0.9998,0.9999
+random_forest,improved,original,0.7525,0.9998,0.8151
+xgboost,original,improved,0.7477,0.815,0.9997
+xgboost,original,original,0.8655,0.9998,0.9998
+xgboost,improved,improved,0.9688,0.9998,0.9996
+xgboost,improved,original,0.7261,0.9998,0.8149

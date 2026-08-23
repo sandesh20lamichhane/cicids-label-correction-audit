@@ -1,0 +1,13 @@
+{
+  "h1_falsified": false,
+  "h1_mean_delta_orig_minus_impr": -0.0493,
+  "h1_range": [
+    -0.1933,
+    0.0953
+  ],
+  "armB_mean_delta": -0.0389,
+  "label_share_of_gap_median": 0.297,
+  "attempted_max_spread": 0.1321,
+  "unseen_family_attack_recall_label_original": 0.0598,
+  "unseen_family_attack_recall_label_improved": 0.1066
+}

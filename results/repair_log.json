@@ -1,0 +1,7 @@
+{
+  "original_rows_loaded": 3119345,
+  "published_reference": 2830743,
+  "null_label_rows_dropped": 288602,
+  "original_rows_after_repair": 2830743,
+  "matches_published_reference": true
+}

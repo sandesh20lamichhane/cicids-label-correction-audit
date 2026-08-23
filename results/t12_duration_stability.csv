@@ -1,0 +1,5 @@
+duration_tolerance_s,pairs,pct_of_matched,family_disagree_pct
+0.1,1472677,91.76,4.0352
+1.0,1509849,94.07,4.1745
+5.0,1521296,94.79,4.2495
+inf,1604995,100.0,4.0505
