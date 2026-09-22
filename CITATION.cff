@@ -1,10 +1,30 @@
 cff-version: 1.2.0
+message: "If you use this pipeline or its results, please cite the paper."
 title: "Do Intrusion Detection Results Survive Label Correction? A Matched-Flow Re-Evaluation of CICIDS2017 and CSE-CIC-IDS2018"
+type: software
+version: "V_1.1"
+date-released: 2026-09-22
+license: MIT
+repository-code: "https://github.com/sandesh20lamichhane/cicids-label-correction-audit"
+doi: 10.5281/zenodo.22065985
+abstract: >-
+  Reproducible pipeline, matched-flow analysis, experiments, figures and results
+  for the CICIDS2017 and CSE-CIC-IDS2018 label-correction audit.
+keywords:
+  - intrusion detection
+  - CICIDS2017
+  - CSE-CIC-IDS2018
+  - dataset quality
+  - label errors
+  - benchmark validity
+  - reproducibility
 authors:
-  - family-names: "Aijaz N"
-    given-names: "Usman"
   - family-names: "Sadath P"
     given-names: "Mohammed"
+    affiliation: "Yenepoya (Deemed to be University), Bengaluru, Karnataka, India"
+  - family-names: "Kaviyarasi"
+    given-names: "R."
+    affiliation: "Yenepoya (Deemed to be University), Bengaluru, Karnataka, India"
   - family-names: "Lamichhane"
     given-names: "Sandesh"
-message: "If you use this pipeline or its results, please cite the paper."
+    affiliation: "Yenepoya (Deemed to be University), Bengaluru, Karnataka, India"
