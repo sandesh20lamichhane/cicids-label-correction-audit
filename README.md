@@ -1,7 +1,7 @@
 # Do Intrusion Detection Results Survive Label Correction?
 ### A Matched-Flow Re-Evaluation of CICIDS2017 and CSE-CIC-IDS2018
 
-Usman Aijaz N, Mohammed Sadath P, Sandesh Lamichhane
+Mohammed Sadath P, R. Kaviyarasi, Sandesh Lamichhane
 
 Full pipeline, pre-registered protocol, result CSVs, figures and SHA-256
 manifest for the paper. Every number in the manuscript traces to a file in
