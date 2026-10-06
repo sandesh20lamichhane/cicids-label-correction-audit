@@ -1,0 +1,6 @@
+# Versions recorded in results/environment.json (Python 3.12.13, Google Colab)
+numpy==2.0.2
+pandas==2.2.3
+scikit-learn==1.6.1
+xgboost==3.4.0
+scipy==1.16.3
