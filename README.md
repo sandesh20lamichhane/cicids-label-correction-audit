@@ -13,12 +13,13 @@ Archived on Zenodo: <https://doi.org/10.5281/zenodo.22065985> (concept DOI,
 always resolves to the latest version).
 
 ## Layout
-- `00_setup.ipynb` … `13_final_checks_figures.ipynb` — the pipeline, fourteen
-  notebooks run in numeric order 00–13 (Google Colab)
-- `src/` — shared config and helpers
+- `notebooks/` — the pipeline, fourteen notebooks run in numeric order 00–13
+  (Google Colab), plus `03b_diagnose.ipynb`
+- `src/` — shared config and helpers, and `make_diagrams.py`, which draws the
+  pipeline and design diagrams (`python src/make_diagrams.py figures`).
+  Notebook 05 writes this same script to the project root when run.
 - `results/` — every table, gate, calibration and headline JSON
-- `figures/` — all manuscript figures (`make_diagrams.py` draws the pipeline
-  and design diagrams)
+- `figures/` — all manuscript figures
 - `PROTOCOL.md`, `PROTOCOL_AMENDMENTS.md` — pre-registration + dated amendments
 - `MANIFEST.csv` — SHA-256 of every result, figure and source file
 - `requirements.txt` — package versions recorded in `results/environment.json`
@@ -32,8 +33,8 @@ downloads the official CSE-CIC-IDS2018 from the CIC public S3 bucket.
 The notebooks expect this repository's contents at
 `/content/drive/MyDrive/research/ids-label-correction` on a mounted Google
 Drive (`DRIVE_ROOT` in each notebook); change `DRIVE_ROOT` to run elsewhere.
-Open each notebook in Colab (high-RAM runtime recommended), Run all, in
-numeric order. Long grids (04, 09) checkpoint to `results/runs.csv` and
+Open each notebook in `notebooks/` in Colab (high-RAM runtime recommended),
+Run all, in numeric order. Long grids (04, 09) checkpoint to `results/runs.csv` and
 resume for free after disconnects.
 
 To check the released artifacts against the manifest:
